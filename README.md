@@ -14,6 +14,8 @@ plot(man[,1],man[,2])
 abline(lm(man[,2]~man[,1]),col='blue')
 ```
 
+![ad](https://github.com/Tony980624/Hotelling-Test/blob/main/file/Rplot.png)
+
 # 生产女人身高体重500个数据
 
 ```
